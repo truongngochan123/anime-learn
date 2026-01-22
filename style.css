@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+}
+
+#subtitle {
+  font-size: 24px;
+  margin: 15px 0;
+}
+
+.word {
+  cursor: pointer;
+  padding: 0 4px;
+}
+
+.word:hover {
+  background: yellow;
+}
+
+#dict {
+  border-left: 2px solid #ccc;
+  padding-left: 10px;
+  width: 250px;
+}
